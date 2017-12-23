@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SearchableFolderTree")]
+[assembly: AssemblyTitle("TestApp")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Adam O'Neil Software")]
-[assembly: AssemblyProduct("SearchableFolderTree")]
-[assembly: AssemblyCopyright("Copyright © Adam O'Neil Software 2017")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("TestApp")]
+[assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("265d69e7-3f12-4d00-ada5-19fd3f6422f7")]
+[assembly: Guid("f7fbd6fb-e773-4625-8365-19e3018ee3ba")]
 
 // Version information for an assembly consists of the following four values:
 //
